@@ -1,2 +1,2 @@
 # Django_Lab2
-# Django Crud Operations
+# Crud Operations
